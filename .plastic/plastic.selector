@@ -1,0 +1,4 @@
+repository "kodluyoruz@caner_karul@cloud"
+  path "/"
+    br "/main"
+    co "/main"
